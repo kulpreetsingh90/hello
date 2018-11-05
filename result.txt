@@ -1,0 +1,8 @@
+gobi
+lasi
+char
+roti
+cofee
+tea
+drink
+smottie

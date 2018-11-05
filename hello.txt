@@ -1,0 +1,4 @@
+gobi
+lasi
+char
+roti
